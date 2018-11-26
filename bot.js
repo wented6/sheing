@@ -35,7 +35,7 @@ client.on('ready', () => {
 const Discord = require('discord.js');
 const client = new Discord.Client();
 ////////////////////////////////
-const hngel1 = ["https://discord.gg/jF6hyTK"]
+const hngel1 = ["jF6hyTK"]
 const hngel = [`
                              
              **حياك الله ياعيني تنورنا
